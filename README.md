@@ -2,7 +2,7 @@
 A fun way to encourage a group of people to workout!
 
 Find the local IP of your Google Home.  
-Create Twilio account and setup an [WhatsApp sandbox](https://www.twilio.com/console/sms/whatsapp/sandbox).
+Create a Twilio account and setup an [WhatsApp sandbox](https://www.twilio.com/console/sms/whatsapp/sandbox).
 ```
 # Add the env variables and your specific configuration
 mv .env.example .env
