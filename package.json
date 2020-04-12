@@ -1,0 +1,32 @@
+{
+  "name": "personal-trainer",
+  "version": "1.0.0",
+  "description": "A fun way to encourage a group of people to workout!",
+  "keywords": [
+    "workout",
+    "gym",
+    "lifestyle",
+    "quarantine"
+  ],
+  "homepage": "https://github.com/DONSA/personal-trainer#readme",
+  "bugs": {
+    "url": "https://github.com/DONSA/personal-trainer/issues"
+  },
+  "author": {
+    "name": "Nuno Lopes",
+    "email": "nunolopes99@gmail.com"
+  },
+  "license": "MIT",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DONSA/personal-trainer.git"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-home-notify": "0.0.4",
+    "slack": "11.0.1",
+    "twilio": "^3.42.1",
+    "yargs": "^15.3.1"
+  }
+}

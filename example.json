@@ -1,0 +1,70 @@
+{
+    "timeFrame": {
+        "start": 9,
+        "end": 16
+    },
+    "coolDown": {
+        "min": 30,
+        "max": 60
+    },
+    "members": [
+        {
+            "name": "User 1",
+            "phone": "+123456789"
+        },
+        {
+            "name": "User 2",
+            "phone": "+987654321"
+        }
+    ],
+    "exercises": [
+        {
+            "name": "push-ups",
+            "min": 15,
+            "max": 20,
+            "unit": "rep"
+        },
+        {
+            "name": "planks",
+            "min": 40,
+            "max": 60,
+            "unit": "second"
+        },
+        {
+            "name": "wall sit",
+            "min": 40,
+            "max": 60,
+            "unit": "second"
+        },
+        {
+            "name": "chair dips",
+            "min": 20,
+            "max": 30,
+            "unit": "rep"
+        },
+        {
+            "name": "calf raises",
+            "min": 20,
+            "max": 40,
+            "unit": "rep"
+        },
+        {
+            "name": "squats",
+            "min": 10,
+            "max": 40,
+            "unit": "rep"
+        },
+        {
+            "name": "spiderman push-ups",
+            "min": 10,
+            "max": 20,
+            "unit": "rep"
+        },
+        {
+            "name": "burpees",
+            "min": 10,
+            "max": 20,
+            "unit": "rep"
+        }
+    ]
+}
